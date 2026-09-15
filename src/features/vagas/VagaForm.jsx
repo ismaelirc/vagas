@@ -2,7 +2,7 @@ export default function VagaForm() {
   return (
     <form className="bg-white rounded-xl p-6 shadow-sm">
       <div className="mb-4">
-        <label className="block mb-2 font-medium">Link Vaga</label>
+        <label className="block mb-2 font-medium">Link da vaga</label>
 
         <input
           type="text"
